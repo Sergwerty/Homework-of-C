@@ -16,7 +16,7 @@ Welcome to my C Programming Homework Repository! This repository contains all my
 
 Clone the repository:
 
-git clone https://github.com/yourusername/c-homework-repo.git
+git clone https://github.com/Sergwerty/Homework-of-C
 
 
 Explore the folders to find exercises or projects.
