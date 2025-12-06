@@ -12,16 +12,6 @@ Welcome to my C Programming Homework Repository! This repository contains all my
 
 ✅ Includes test cases and sample inputs/outputs
 
-⚙️ Usage
-
-Clone the repository:
-
-git clone https://github.com/Sergwerty/Homework-of-C
-
-
-Explore the folders to find exercises or projects.
-
-Compile and run the programs using a C compiler (e.g., gcc).
 
 📊 Skills Practiced
 
@@ -35,4 +25,5 @@ Structures, Unions, and File Handling
 
 Dynamic Memory Allocation
 
-This repository is for educational purposes only. 
+
+🎓 This repository is for educational purposes only. 
